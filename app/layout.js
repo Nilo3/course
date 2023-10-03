@@ -1,7 +1,7 @@
 "use client"
 import Head from 'next/head';
 import { Inter } from 'next/font/google';
-import Navbar from '@/src/components/navbar';
+import Navbar from './components/navbar';
 import '../configureAmplify';
 
 // Importa tus estilos globales
